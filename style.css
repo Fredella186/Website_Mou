@@ -1,0 +1,115 @@
+.navigation {
+    font-family: Yeseva One;
+    font-size: 20;
+    text-decoration-color:#AF8E4C;
+    text-decoration: none;
+    overflow: hidden;
+    padding: 14px 16px;
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  
+}
+
+.navigation a{
+    text-decoration: none;
+    color:#E0BA75;
+}
+
+.pembuka {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    color:#E0BA75;
+    justify-content: flex-end;
+    padding-right: 300px;
+    padding-bottom: 0px;
+}
+
+.top{
+    margin-right: 10px;
+}
+.say1{
+    display: flex;
+}
+
+.komen1{
+    display:flex;
+    justify-content: center;
+    margin:0px 10px 10px 0px;
+    border: 0px solid white;
+    border-radius: 10px;
+    box-shadow: 0px 1.39px 13.88px rgba(0, 0, 0, 10%);
+    padding:10px;
+    width: 400px;
+    height: 110.03px;
+}
+
+.word{
+    margin-left: 10px;
+}
+.say h2{
+    color:#E0BA75;
+    font-size: 40;
+    font-family: Yeseva One;
+}
+
+.say h3{
+    color:#E0BA75;
+    font-size: 22.21;
+    font-family: Yeseva One;
+}
+
+.say p{
+    color:#AAA;
+    font-size: 13.73;
+    font-family: Inter Semibold;
+}
+
+.top {
+    padding-right: 10%;
+    display: flex;
+}
+
+.footer{
+    background-color: #E0BA75;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 80px;
+}
+
+.alamat{   
+    font-family: Inter Bold;
+    font-size: 20;
+    color:white;
+}
+
+.site_map h2{
+    font-family: Yeseva One;
+    font-size:25;
+    color:white;
+}
+
+.site_map a{
+    font-family: Inter Medium;
+    font-size: 20;
+    color:white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.lets_connect h2{
+    font-family: Yeseva One;
+    font-size:25;
+    color:white;
+   
+}
+
+input[type="text"]{
+    border: none;
+    border-radius: 2px;
+    font-family: Inter Medium;
+    color:#C1C1C1;
+}
