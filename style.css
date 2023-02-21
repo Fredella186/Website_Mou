@@ -73,9 +73,12 @@
 
 .footer{
     background-color: #E0BA75;
+    padding: 15px 80px;
+}
+
+.footer1{
     display: flex;
     justify-content: space-between;
-    padding: 15px 80px;
 }
 
 .alamat{   
@@ -112,4 +115,9 @@ input[type="text"]{
     border-radius: 2px;
     font-family: Inter Medium;
     color:#C1C1C1;
+}
+
+.garis{
+    display: flex;
+    justify-content: center;
 }
